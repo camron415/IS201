@@ -1,0 +1,29 @@
+/* styles.css */
+
+body {
+    font-family: 'Arial', sans-serif; /* Custom font family */
+    color: #333; /* Font color */
+  }
+  
+  h1, h2, h3 {
+    color: #0033cc; /* Font color */
+  }
+  
+  .styled-div1 {
+    background-color: #ffcc00;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  .styled-div2 {
+    background-color: #66ff66;
+    padding: 15px;
+    margin: 15px;
+  }
+  
+  .styled-div3 {
+    background-color: #ff99cc;
+    padding: 20px;
+    margin: 20px;
+  }
+  
